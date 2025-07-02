@@ -1,0 +1,36 @@
+﻿Space Complexity
+
+NOT the actual time taken but the amount of time taken as a function of input size (n).
+
+No. of Funtion and Funtion size affect time complexity.
+
+Big O Notation { O(n)  }
+-------------------------Worst Case Scenatio(upper Bounf)   //Most imp
+
+Theta Notation { Θ(n) }
+-------------------------Average Case Scenario (tight bound)
+
+Omega Notation { Ω(n) }
+-------------------------Best Case Scenario (lower bound)
+
+
+to get the value 
+eg :- 4n2 + 5n +5 ---------(ignore constante )
+n2 + n + 1
+final time complexity is O(n2)
+
+
+Space Complexity 
+Amount of Space taken by an algorithm as function of input size(n)
+
+          -Input ( vec , string _ _ _)
+        /
+code -
+        \
+          -Output (auxilarry _ _ _)
+
+
+O(1)< O(log n)< O(n) < O(n log n)< O(n2) < O(n3) < O(2^n) < O(n!)
+Best ------------------------------------------------------ Worst
+
+
