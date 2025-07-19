@@ -1,5 +1,3 @@
-package functions;
-
 import java.util.*;
 
 public class medium{

@@ -1,14 +1,11 @@
-
-
-
 import java.util.*;
 
 
-public class array {
+public class one_array {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Enter the number of students: ");
+        System.out.println("Enter the number of subjects: ");
         int n = scanner.nextInt();
 
         float[] marks = new float[n];
