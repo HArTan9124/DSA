@@ -1,0 +1,23 @@
+Start
+
+input n
+set sum = 0;
+set i<- 1
+while i<= m 
+sum <= sum+1
+i <= i+1
+end while
+
+output sum
+end
+
+let n be the first input
+sum = n(n+1)/2
+print sum
+
+function calculatesum
+return n(n+1)/2
+end function
+n = input("number");
+result = calculatesum(n);
+print result;

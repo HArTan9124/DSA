@@ -5,7 +5,7 @@ NOT the actual time taken but the amount of time taken as a function of input si
 No. of Funtion and Funtion size affect time complexity.
 
 Big O Notation { O(n)  }
--------------------------Worst Case Scenatio(upper Bounf)   //Most imp
+-------------------------Worst Case Scenatio(upper Bound)   //Most imp
 
 Theta Notation { Θ(n) }
 -------------------------Average Case Scenario (tight bound)

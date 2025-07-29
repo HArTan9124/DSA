@@ -1,6 +1,12 @@
 import java.util.*;
 
 public class StackExample {
+
+    //explaiming all pop funtion
+    public static void pop(int a) {
+        
+        
+    }
     public static void main(String[] args) {
         Stack<String> stack = new Stack<>();
 
