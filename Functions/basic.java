@@ -43,15 +43,15 @@ public class basic {
         int i = sc.nextInt();
         if (i==1) {
                 add(x,y);
-            }else if (i==2) {
+        }else if (i==2) {
                 subtract(x,y);
-            }else if (i==3) {
+        }else if (i==3) {
                 multiply(x,y);
-            }else if (i==4) {
+        }else if (i==4) {
                 devide(x,y);
-            }else{
+        }else{
                 System.out.println("Wrong choice");
-            }
+        }
         sc.close();
     }
 }
