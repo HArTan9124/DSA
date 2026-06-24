@@ -29,10 +29,7 @@ public class basic {
         return;
     }
 
-    public static void choice(String[] args) {
-        
-        
-    }
+    
     public static void main(String[] args) {
         System.out.println("Enter Your numbers");
         Scanner sc = new Scanner(System.in);
@@ -55,3 +52,5 @@ public class basic {
         sc.close();
     }
 }
+
+
