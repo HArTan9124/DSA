@@ -1,4 +1,4 @@
-public class binarySort {
+public class Bubblesort {
     public static void main(String[] args) {
 
         int nums[] = { 9,4,2,7,5,8,1,0,3,6};
